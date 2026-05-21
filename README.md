@@ -23,12 +23,13 @@
 </p>
 
 ## Contact Me
-<p align="left>
+<p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hongnnguyen24@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/hong-ngoc-nguyen-868947404" target="_blank">
-    <<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  
+  <a href="DEIN_LINKEDIN_PROFIL_LINK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
 </p>
   
