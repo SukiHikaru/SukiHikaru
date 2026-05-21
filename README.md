@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome to my Git World, I am Suki </h1>
-<h3 align="center"> Passionated Python developer with a background in requirements engineering and process development. </h3>
+<h3 align="center"> Passionate Python developer with a background in requirements engineering and process development. </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-green" alt="Status">
@@ -12,9 +12,9 @@
 
 ## About Me
 
-* 👨‍💻 Full-Stack Developer | Graduated from Munich University of applied Science
-* ⚙️ My Skills | Software - Data Engineering & Requirement Engineering 
-* 🤓 Proactive learner to new topics and tackling new challenges.
+* 👨‍💻 Full-Stack Developer | Graduated from Munich University of Applied Science
+* ⚙️ My Skills | Software, Data Engineering & Requirements Engineering 
+* 🤓 Proactive learner, always open to new topics and ready to tackle new challenges.
 
 ## Languages & Tools
 
