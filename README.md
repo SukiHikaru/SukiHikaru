@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center"> Happy to see you here,  I am Suki </h1>
+<h1 align="center"> Welcome to my github World </h1>
+<h3 align="center"> Proactive learner to new topics and tackling new challenges.</h3>
 
-<!--
-**SukiHikaru/SukiHikaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-green" alt="Status">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="DEIN_CV_LINK"><img src="https://img.shields.io/badge/My%20CV-004020?style=for-the-badge&logo=&logoColor=white" alt="My CV"></a>
+  <a href="DEIN_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/My%20Portfolio-004020?style=for-the-badge&logo=&logoColor=white" alt="My Portfolio"></a>
+</p>
