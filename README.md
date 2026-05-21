@@ -28,7 +28,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
   </a>
   
-  <a href="DEIN_LINKEDIN_PROFIL_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/hong-ngoc-nguyen-868947404" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
 </p>
