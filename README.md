@@ -1,5 +1,4 @@
-<h1 align="center"> Happy to see you here,  I am Suki </h1>
-<h1 align="center"> Welcome to my github World </h1>
+<h1 align="center"> Welcome to my Git World, I am Suki </h1>
 <h3 align="center"> Passionated Python developer with a background in requirements engineering and process development. </h3>
 
 <p align="center">
