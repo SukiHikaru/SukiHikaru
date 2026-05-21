@@ -14,11 +14,11 @@
 ## About Me
 
 * 👨‍💻 Full-Stack Developer | Graduated from Munich University of applied Science
-* ⚙️ My Skills | Python, SQL, Pandas, REST API, FAST API, ML Methods, Prompt Engineering, Requirement Engineering DOORS, JIRA, JAMA
+* ⚙️ My Skills | Software - Data Engineering & Requirement Engineering 
 * 🤓 Proactive learner to new topics and tackling new challenges.
 
 ## Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,ts,html,css,angular,bootstrap,postgres,mysql,mongodb,git,docker,vscode,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql,git,gitlab,docker,vscode,linux,windows" />
 </p>
