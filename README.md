@@ -12,7 +12,7 @@
 
 ## About Me
 
-* 👨‍💻 Full-Stack Developer | Graduated from Munich University of Applied Science
+* 👨‍💻 Python / Data Engineer| Graduated from Munich University of Applied Sciences
 * ⚙️ My Skills | Software, Data Engineering & Requirements Engineering 
 * 🤓 Proactive learner, always open to new topics and ready to tackle new challenges.
 
